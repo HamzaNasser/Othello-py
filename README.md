@@ -12,3 +12,5 @@ If, at any point during the search, the value of alpha becomes greater than the 
 the search can be stopped because the current player can do no better than the minimum score (alpha) and 
 the opponent can do no worse than the maximum score (beta). This allows the search to be terminated early, reducing the number of nodes that need to 
 be evaluated and improving the performance of the algorithm.
+
+![image](https://user-images.githubusercontent.com/76017518/210290595-2f5301aa-ae10-4b6d-bf5d-dda0aaa3d7fb.png)
