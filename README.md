@@ -17,6 +17,9 @@ Website used for testing: https://playingcards.io/s9n8zf
 
 Pyautogui will read the board and returnd the actuall spots for each player and the code will calculate the best move for the selected player in this case it is "W".
 
+![image](https://user-images.githubusercontent.com/76017518/210881580-48dffe28-735c-47bd-874a-06aaa7cc88c8.png)
+
+
 ![image](https://user-images.githubusercontent.com/76017518/210290595-2f5301aa-ae10-4b6d-bf5d-dda0aaa3d7fb.png)
 
 Final result of the game:
