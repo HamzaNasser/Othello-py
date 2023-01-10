@@ -15,6 +15,8 @@ be evaluated and improving the performance of the algorithm.
 
 Website used for testing: https://playingcards.io/s9n8zf
 
+POC: https://youtu.be/-Uluzk2CgIY
+
 Pyautogui will read the board and returnd the actuall spots for each player and the code will calculate the best move for the selected player in this case it is "W".
 
 ![image](https://user-images.githubusercontent.com/76017518/210881580-48dffe28-735c-47bd-874a-06aaa7cc88c8.png)
